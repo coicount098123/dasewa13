@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://elections-strand-nick-been.trycloudflare.com/vnc.html
+URL       : https://friendship-decorative-making-specially.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-28 07:45:30
+Created   : 2026-07-28 12:04:28
 =======================================================
