@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://crowd-benchmark-updated-intensive.trycloudflare.com/vnc.html
+URL       : https://know-bureau-yourself-gate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 02:30:31
+Created   : 2026-08-12 06:21:57
 =======================================================
