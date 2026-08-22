@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://obtaining-danny-named-lectures.trycloudflare.com/vnc.html
+URL       : https://propecia-rotation-happy-ago.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-22 10:32:33
+Created   : 2026-08-22 15:30:00
 =======================================================
