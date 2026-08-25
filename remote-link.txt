@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cottages-allen-payday-narrow.trycloudflare.com/vnc.html
+URL       : https://progress-doors-plants-midwest.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 20:39:56
+Created   : 2026-08-25 01:41:52
 =======================================================
