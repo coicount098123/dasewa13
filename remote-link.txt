@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thoughts-readings-cable-solar.trycloudflare.com/vnc.html
+URL       : https://exams-yeah-author-phd.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-30 10:30:09
+Created   : 2026-08-30 18:34:33
 =======================================================
