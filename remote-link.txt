@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://racing-respondent-generates-sky.trycloudflare.com/vnc.html
+URL       : https://apps-rough-local-build.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 22:33:26
+Created   : 2026-09-02 04:05:36
 =======================================================
